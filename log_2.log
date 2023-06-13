@@ -1,0 +1,16 @@
+2023-06-13 23:52:59.824067
+hello_world
+args (), kwargs {}
+Hello World
+2023-06-13 23:52:59.824234
+summator
+args (2, 2), kwargs {}
+4
+2023-06-13 23:52:59.824470
+div
+args (6, 2), kwargs {}
+3.0
+2023-06-13 23:52:59.824572
+summator
+args (4.3,), kwargs {'b': 2.2}
+6.5
